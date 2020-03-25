@@ -5,11 +5,18 @@
     },
     "license": "MIT",
     "main": "./index.js",
-    "name": "random-var-generetor",
+    "name": "random variable and password generetor",
     "repository": {
       "type": "git",
       "url": "https://github.com/manishkumar212111/random-var-generetor"
     },
-    "version": "1.1.5"
+    "keywords": [
+        "random",
+        "variable",
+        "generetor",
+        "password",
+        "string"
+    ],
+    "version": "1.1.6"
   }
   

@@ -14,6 +14,7 @@ Install :- `npm i random-var-generetor`
 | `randomString(length , VPype)`      | Generete random varaibles.       |
 | `passwordGeneretor(length , PType)`   | Generete password of all types     |
 
+
 Arguments and it's usage
 
 + length : length of random variable/password
